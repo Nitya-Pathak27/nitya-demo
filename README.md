@@ -1,4 +1,5 @@
 # nitya-demo
+
 This is my first repository
 <br>
-Author - Nitya Pathak
+Author - Nitya Pathak(first)
